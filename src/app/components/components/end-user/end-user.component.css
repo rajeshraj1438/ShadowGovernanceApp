@@ -1,0 +1,8 @@
+.center {
+  /* display: flex; */
+
+  align-self: center;
+  height: 100vh;
+  background-color: #2911ff;
+  justify-content: center;
+}

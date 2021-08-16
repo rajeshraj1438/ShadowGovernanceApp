@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {MediaObserver, MediaChange} from '@angular/flex-layout';
 
 @Component({
   selector: 'app-root',

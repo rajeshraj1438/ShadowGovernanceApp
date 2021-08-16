@@ -1,0 +1,7 @@
+.style1 {
+  flex: 1 1 auto;
+  justify-content: center;
+  padding-right: 20px;
+  height: 200vh;
+  background-color: burlywood;
+}
